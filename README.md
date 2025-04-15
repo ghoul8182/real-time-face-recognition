@@ -1,4 +1,4 @@
-Real-Time Face Recognition System
+
 Overview
 The Real-Time Face Recognition System is a powerful, machine learning-based application designed for accurate face recognition using OpenCV’s Local Binary Patterns Histograms (LBPH) algorithm. It leverages a custom dataset of facial images for training the model and enables real-time detection and identification of faces through a camera feed.
 
